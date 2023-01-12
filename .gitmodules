@@ -1,3 +1,6 @@
 [submodule "src/QuickLook"]
 	path = src/QuickLook
 	url = https://github.com/QL-Win/QuickLook.git
+[submodule "src/QuickLook.Plugin.HelloWorld"]
+	path = src/QuickLook.Plugin.HelloWorld
+	url = https://github.com/QL-Win/QuickLook.Plugin.HelloWorld.git
